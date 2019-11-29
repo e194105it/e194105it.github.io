@@ -1,0 +1,22 @@
+h1{
+   color: white;
+   background-color: black;
+   text-align: center
+}
+h2{
+   background-color:blueviolet;
+   text-align:center;
+    color:aliceblue;
+}
+h3{
+    color: aquamarine;
+}
+body{
+    background-image:url(..//images/doraemon.png)
+}
+table{
+    background-color: bisque;
+}
+li{
+    background-image: url(..//images/BwfUfaqIgAEyMV2.jpg)
+}

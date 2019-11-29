@@ -1,0 +1,31 @@
+h1.top{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family:serif;
+}
+
+h2.midashi1{
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+    font-family:serif;
+}
+
+h2.midashi2{
+    color: lightpink;
+    background-color: yellow;
+    text-align: center;
+    font-family:serif;
+}
+
+h1.link{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    font-family:serif;
+}
+
+body{
+    background-image:url(../images/doraemon.png)
+}
